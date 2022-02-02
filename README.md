@@ -17,8 +17,8 @@ GAME OVERVIEW =>
   
   Possible Game improvements =>
     -> Adding modes to the game like:
-                                    -> No skull life mode to aim for high score.
-                                    -> And more which im working on.....
+                                    * No skull life mode to aim for high score.
+                                    * And more which im working on.....
     -> Recording every players score and storing the high scores in a file and displaying the best
                                       scores at the end if the player wished to see it.
     -> Adding more creative modes to the game and improving on the basic game mechanics.
