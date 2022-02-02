@@ -27,7 +27,7 @@ GAME OVERVIEW =>
    
     Helpful Links=>
     -> https://www.youtube.com/watch?v=5Wmi1a1spuE ---> download and use dev c++
-    -> https://www.youtube.com/watch?v=85FrhrIwBtw ---> use and run codes in dev c++.
+    -> https://www.youtube.com/watch?v=85FrhrIwBtw ---> use and run codes in dev c++
 
 
  
