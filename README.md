@@ -2,9 +2,9 @@
 ## A simple 2-D skull cannon shooting game ##
 
 GAME OVERVIEW =>
-  -> The game consists of a cannon and a skull moving in a random path.
+  -> This game consists of a cannon and a skull moving in a random path.
   -> The cannon is on the bottom of the game screen and the skull moves from left to right on top of the game screen.
-  -> The game also has a reload component to the cannon so we have to place the cannon strategically and fire bullets wisely.
+  -> This game also has a reload component to the cannon so we have to place the cannon strategically and fire bullets wisely.
   -> Game runs for 100 seconds , +10 points are added for every hit to the skull.
   -> Skull has 10 lives so the game ends when the time hits 0 or when the skull lives deplete.
   
